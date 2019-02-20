@@ -1,0 +1,15 @@
+﻿<Window x:Class="Track_Data_Card.WindowWarning"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Track_Data_Card"
+        mc:Ignorable="d"
+        Title="WindowWarning" Height="127.333" Width="400" WindowStyle="None" ResizeMode="NoResize">
+    <Grid Background="White">
+        <Label Content="Warning: " Margin="10,10,0,0" VerticalAlignment="Top" Foreground="Black" FontSize="16" HorizontalAlignment="Left" Width="80" Background="{x:Null}"/>
+        <Button Content="Ok" Margin="10,81,0,0" VerticalAlignment="Top" Click="Button_Click" HorizontalAlignment="Left" Width="100"/>
+        <Label x:Name="warning_text" Content="Text" Margin="10,41,0,0" VerticalAlignment="Top" Foreground="Black" FontSize="14" HorizontalAlignment="Left" Width="380"/>
+
+    </Grid>
+</Window>

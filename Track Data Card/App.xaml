@@ -1,0 +1,15 @@
+﻿<Application x:Class="Track_Data_Card.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Track_Data_Card"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="resource_dictionary/tab.xaml"/>
+                <ResourceDictionary Source="resource_dictionary/listView.xaml"/>
+                <ResourceDictionary Source="resource_dictionary/comboBoxStyle.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

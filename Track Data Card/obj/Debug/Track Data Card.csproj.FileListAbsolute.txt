@@ -1,0 +1,171 @@
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\bin\Debug\Track Data Card.exe.config
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\bin\Debug\Track Data Card.exe
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\bin\Debug\Track Data Card.pdb
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\Track Data Card.csprojAssemblyReference.cache
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\MainWindow.g.cs
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\App.g.cs
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\Track Data Card_MarkupCompile.cache
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\Track Data Card_MarkupCompile.lref
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\MainWindow.baml
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\Track Data Card.g.resources
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\Track_Data_Card.Properties.Resources.resources
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\Track Data Card.csproj.GenerateResource.cache
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\Track Data Card.csproj.CoreCompileInputs.cache
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\Track Data Card.exe
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\Track Data Card.pdb
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\App.baml
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\bin\Debug\taglib-sharp.dll
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\Track Data Card.csproj.CopyComplete
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\resource_dictionary\comboBoxStyle.baml
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\resource_dictionary\listView.baml
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\resource_dictionary\tab.baml
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\Preloader.g.cs
+C:\Users\putho\source\repos\Track Data Card\Track Data Card\obj\Debug\Preloader.baml
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\bin\Debug\Track Data Card.exe.config
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\bin\Debug\Track Data Card.exe
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\bin\Debug\Track Data Card.pdb
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\bin\Debug\taglib-sharp.dll
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\Track Data Card.csprojAssemblyReference.cache
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\Preloader.g.cs
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\MainWindow.g.cs
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\App.g.cs
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\Track Data Card_MarkupCompile.cache
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\Track Data Card_MarkupCompile.lref
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\App.baml
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\Preloader.baml
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\resource_dictionary\comboBoxStyle.baml
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\resource_dictionary\listView.baml
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\MainWindow.baml
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\resource_dictionary\tab.baml
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\Track Data Card.g.resources
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\Track_Data_Card.Properties.Resources.resources
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\Track Data Card.csproj.GenerateResource.cache
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\Track Data Card.csproj.CoreCompileInputs.cache
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\Track Data Card.csproj.CopyComplete
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\Track Data Card.exe
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\obj\Debug\Track Data Card.pdb
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\bin\Debug\Newtonsoft.Json.dll
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\putho\source\repos\Track Data Card v2\Track Data Card\bin\Debug\Newtonsoft.Json.xml
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card.csprojAssemblyReference.cache
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\Error.g.cs
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\Preloader.g.cs
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\MainWindow.g.cs
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\App.g.cs
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card_MarkupCompile.cache
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card_MarkupCompile.lref
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card.exe
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card.pdb
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\bin\Debug\Track Data Card.exe.config
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\bin\Debug\Track Data Card.exe
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\bin\Debug\Track Data Card.pdb
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\bin\Debug\Newtonsoft.Json.dll
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\bin\Debug\taglib-sharp.dll
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\bin\Debug\Newtonsoft.Json.xml
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\App.baml
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\Error.baml
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\Preloader.baml
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\resource_dictionary\comboBoxStyle.baml
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\resource_dictionary\listView.baml
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\MainWindow.baml
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\resource_dictionary\tab.baml
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card.g.resources
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\Track_Data_Card.Properties.Resources.resources
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card.csproj.GenerateResource.cache
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card.csproj.CoreCompileInputs.cache
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card.csproj.CopyComplete
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\WindowWarning.g.cs
+C:\Users\putho\source\repos\Track Data Card v3\Track Data Card\obj\Debug\WindowWarning.baml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\bin\Debug\Track Data Card.exe.config
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\bin\Debug\Track Data Card.exe
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\bin\Debug\Track Data Card.pdb
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\bin\Debug\Newtonsoft.Json.dll
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\bin\Debug\taglib-sharp.dll
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\bin\Debug\Newtonsoft.Json.pdb
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\bin\Debug\Newtonsoft.Json.xml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\bin\Debug\policy.2.0.taglib-sharp.config
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card.csprojAssemblyReference.cache
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\Error.g.cs
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\Preloader.g.cs
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\MainWindow.g.cs
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\WindowWarning.g.cs
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\App.g.cs
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card_MarkupCompile.cache
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card_MarkupCompile.lref
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\App.baml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\Error.baml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\Preloader.baml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\resource_dictionary\comboBoxStyle.baml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\resource_dictionary\listView.baml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\MainWindow.baml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\resource_dictionary\tab.baml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\WindowWarning.baml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card.g.resources
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\Track_Data_Card.Properties.Resources.resources
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card.csproj.GenerateResource.cache
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card.csproj.CoreCompileInputs.cache
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card.csproj.CopyComplete
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card.exe
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v3\Track Data Card\obj\Debug\Track Data Card.pdb
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\Track Data Card.csprojAssemblyReference.cache
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\Track Data Card.exe
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\Track Data Card.pdb
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\bin\Debug\Track Data Card.exe.config
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\bin\Debug\Track Data Card.exe
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\bin\Debug\Track Data Card.pdb
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\bin\Debug\Newtonsoft.Json.dll
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\bin\Debug\taglib-sharp.dll
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\bin\Debug\Newtonsoft.Json.pdb
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\bin\Debug\Newtonsoft.Json.xml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\bin\Debug\policy.2.0.taglib-sharp.config
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\Error.g.cs
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\Preloader.g.cs
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\MainWindow.g.cs
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\WindowWarning.g.cs
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\App.g.cs
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\Track Data Card_MarkupCompile.cache
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\Track Data Card_MarkupCompile.lref
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\App.baml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\Error.baml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\Preloader.baml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\resource_dictionary\comboBoxStyle.baml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\resource_dictionary\listView.baml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\MainWindow.baml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\resource_dictionary\tab.baml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\WindowWarning.baml
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\Track Data Card.g.resources
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\Track_Data_Card.Properties.Resources.resources
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\Track Data Card.csproj.GenerateResource.cache
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\Track Data Card.csproj.CoreCompileInputs.cache
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\Track Data Card.csproj.CopyComplete
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\EditSelectionWindow.g.cs
+D:\jino cloud\Заказы\Nikita Zheltov\C#\Track Data Card v4\Track Data Card\obj\Debug\EditSelectionWindow.baml

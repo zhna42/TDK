@@ -1,0 +1,33 @@
+﻿<Window x:Class="Track_Data_Card.EditSelectionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Track_Data_Card"
+        mc:Ignorable="d"
+        Title="EditSelectionWindow" Height="129.332" Width="287.667" WindowStyle="None" ResizeMode="NoResize">
+    <Grid Background="#FF2C2C2C">
+        <TextBox x:Name="year" HorizontalAlignment="Left" Height="23" Margin="71,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="135" FontSize="14" Foreground="#FFFFF3F3" BorderBrush="White" Background="#FF2C2C2C" FontFamily="Tahoma"/>
+        <ComboBox x:Name="category" Foreground="White" Margin="71,38,0,0" Padding="5,0,5,5" ItemsSource="{Binding bindComboSearch, Mode=OneWay}" SelectedIndex="12" Style="{DynamicResource ComboBoxStyle}" Height="23" RenderTransformOrigin="0.511,0.116" VerticalAlignment="Top" HorizontalAlignment="Left" Width="135" FontFamily="Tahoma">
+            <ComboBox.Resources>
+                <SolidColorBrush x:Key="{x:Static SystemColors.WindowBrushKey}" Color="#3c3c3c" />
+                <SolidColorBrush x:Key="{x:Static SystemColors.HighlightBrushKey}" Color="#3c3c3c" />
+            </ComboBox.Resources>
+        </ComboBox>
+        <ComboBox x:Name="version" Foreground="White" Margin="71,66,0,0" Padding="5,0,5,5" ItemsSource="{Binding bindComboSearch, Mode=OneWay}" SelectedIndex="12" Style="{DynamicResource ComboBoxStyle}" Height="23" RenderTransformOrigin="0.511,0.116" VerticalAlignment="Top" HorizontalAlignment="Left" Width="135" FontFamily="Tahoma">
+            <ComboBox.Resources>
+                <SolidColorBrush x:Key="{x:Static SystemColors.WindowBrushKey}" Color="#3c3c3c" />
+                <SolidColorBrush x:Key="{x:Static SystemColors.HighlightBrushKey}" Color="#3c3c3c" />
+            </ComboBox.Resources>
+        </ComboBox>
+        <CheckBox Click="use1" Content="Use" HorizontalAlignment="Left" Margin="211,14,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <CheckBox Click="use2" Content="Use" HorizontalAlignment="Left" Margin="211,41,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <CheckBox Click="use3" Content="Use" HorizontalAlignment="Left" Margin="211,69,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Button Click="ok" Content="Ok" HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top" Width="134"/>
+        <Button Click="close" Content="Close" HorizontalAlignment="Left" Margin="150,100,0,0" VerticalAlignment="Top" Width="128"/>
+        <Label Content="Version:" HorizontalAlignment="Left" Margin="10,64,0,0" VerticalAlignment="Top" Foreground="White" FontFamily="Tahoma"/>
+        <Label Content="Category:" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top" Foreground="White" FontFamily="Tahoma"/>
+        <Label Content="Year:" HorizontalAlignment="Left" Margin="10,9,0,0" VerticalAlignment="Top" Foreground="White" FontFamily="Tahoma"/>
+
+    </Grid>
+</Window>
